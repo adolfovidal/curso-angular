@@ -1,2 +1,2 @@
-# curso-angularjs
- Curso de Angular JS
+# curso-angular
+ Curso de Angular
